@@ -1,0 +1,20 @@
+D:\STD\CS OOP\G3TETRIS\Tetris\bin\Debug\Tetris.exe.config
+D:\STD\CS OOP\G3TETRIS\Tetris\bin\Debug\Tetris.exe
+D:\STD\CS OOP\G3TETRIS\Tetris\bin\Debug\Tetris.pdb
+D:\STD\CS OOP\G3TETRIS\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\STD\CS OOP\G3TETRIS\Tetris\obj\Debug\Tetris.Form1.resources
+D:\STD\CS OOP\G3TETRIS\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\STD\CS OOP\G3TETRIS\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\STD\CS OOP\G3TETRIS\Tetris\obj\Debug\Tetris.exe
+D:\STD\CS OOP\G3TETRIS\Tetris\obj\Debug\Tetris.pdb
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\bin\Debug\Tetris.exe
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\bin\Debug\Tetris.pdb
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.exe
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.pdb
+C:\Users\acer\Desktop\G3TETRIS-20191207T173700Z-001\G3TETRIS\Tetris\obj\Debug\Tetris.Review.resources
